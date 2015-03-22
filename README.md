@@ -1,6 +1,6 @@
 # Userscripts
 
-Requires either the [Greasemonkey](http://www.greasespot.net) or [Tampermonkey](http://tampermonkey.net) brower extension.
+Requires either the [Greasemonkey](http://www.greasespot.net) or [Tampermonkey](http://tampermonkey.net) browser extension.
 
 **Garfield Comic Viewer**
 
