@@ -5,7 +5,7 @@ Requires either the [Greasemonkey](http://www.greasespot.net) or [Tampermonkey](
 
 **[Garfield Comic Viewer](https://raw.githubusercontent.com/jdh11235/userscripts/master/GarfieldComicViewer.user.js)** for [garfield.com](http://garfield.com) (click "read more")
 
-Adds a toggle button that overlays a comic strip viewer with various improvements, such as:
+Adds a toggle button (in the top-right corner) that overlays a comic strip viewer with various improvements, such as:
 
 - when switching comics, reloads just the comig strip and not the entire webpage
 - minimizes visual clutter
