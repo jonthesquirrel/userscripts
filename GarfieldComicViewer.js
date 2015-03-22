@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Garfield Comic Viewer
 // @namespace    https://github.com/jdh11235/userscripts
-// @version      1.0
+// @version      1.1
 // @description  Improves the comic viewing experience on garfield.com!
 // @author       Jonathan Herman
 // @match        http://garfield.com/comic/*
@@ -156,7 +156,7 @@ var keyhandler = {
     }
 };
 
-viewer.container.addEventListener('keydown', function(event) {
+window.addEventListener('keydown', function(event) {
     switch (event.keyCode) {
         case keyhandler.bindings.previous:
             comic.previous();
