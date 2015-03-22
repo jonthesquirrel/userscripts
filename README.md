@@ -3,7 +3,7 @@
 Requires either the [Greasemonkey](http://www.greasespot.net) or [Tampermonkey](http://tampermonkey.net) browser extension.
 
 
-**Garfield Comic Viewer**
+**Garfield Comic Viewer** for <garfield.com> (click "read more")
 
 Adds a toggle button that overlays a comic strip viewer with various improvements, such as:
 
