@@ -2,8 +2,11 @@
 
 Requires the [Tampermonkey](http://tampermonkey.net) browser extension.
 
+## **[URL Simplifier for Amazon](https://raw.githubusercontent.com/jonthesquirrel/userscripts/master/URLSimplifierForAmazon.user.js)**
 
-**[Garfield Comic Viewer](https://raw.githubusercontent.com/jdh11235/userscripts/master/GarfieldComicViewer.user.js)** for [garfield.com](http://garfield.com) (click "read more")
+Simplifies amazon.com URLs into their most minimal form.
+
+## **[Garfield Comic Viewer](https://raw.githubusercontent.com/jonthesquirrel/userscripts/master/GarfieldComicViewer.user.js)** for [garfield.com](http://garfield.com) (click "read more")
 
 Adds a toggle button (in the top-right corner) that overlays a comic strip viewer with various improvements, such as:
 
