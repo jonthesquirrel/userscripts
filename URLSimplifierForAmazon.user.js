@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         URL Simplifier for amazon.com
+// @name         URL Simplifier for Amazon
 // @namespace    https://jonthesquirrel.github.io
 // @version      0.1
-// @description  Simplifies Amazon URLs into their most minimal form.
+// @description  Simplifies amazon.com URLs into their most minimal form.
 // @author       jonthesquirrel
 // @match        https://www.amazon.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=amazon.com
