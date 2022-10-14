@@ -12,7 +12,7 @@
 (function() {
     'use strict';
 
-    const dp = [...window.location.href.matchAll(/https:\/\/www\.amazon\.com\/.*(dp\/.*?)\//gi)][0][1]
+    const dp = [...window.location.href.matchAll(/https:\/\/www\.amazon\.com\/.*(dp\/.*?)[\/\?]/gi)][0][1]
     const simplifiedURL = `https://amazon.com/${dp}`
     window.location.href = simplifiedURL
 })();
