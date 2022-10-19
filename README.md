@@ -18,7 +18,9 @@ keyboard shortcuts:
 - Right or Left Arrow = next or previous comic
 - Esc = close viewer
 
+## **[Auto HermitCraft Tab Clicker](https://raw.githubusercontent.com/jonthesquirrel/userscripts/master/AutoHermitCraftTabClicker.user.js)**
 
+Automatically selects the HermitCraft video tab on https://hermitcraft.com
 ___
 
 Copyright (c) 2015 Jonathan Herman. MIT License.
