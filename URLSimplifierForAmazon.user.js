@@ -12,7 +12,15 @@
 (function() {
     'use strict';
 
-    const dp = [...window.location.href.matchAll(/https:\/\/www\.amazon\.com\/.*(dp\/.*?)[\/\?]/gi)][0][1]
-    const simplifiedURL = `https://amazon.com/${dp}`
-    window.location.href = simplifiedURL
+    const match = window.location.href.match(/\/dp\/([0-9a-z]+)/gi)
+
+    if (!match) {
+        return
+    }
+
+    if (/https:\/\/www\.amazon\.com\/dp\/([0-9a-z]+)$/gi.test(window.location.href)) {
+        return
+    }
+
+    window.location.href = `https://amazon.com${match[0]}`
 })();
