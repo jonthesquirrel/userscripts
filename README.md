@@ -10,7 +10,7 @@ Simplifies amazon.com URLs into their most minimal form.
 
 Adds a toggle button (in the top-right corner) that overlays a comic strip viewer with various improvements, such as:
 
-- when switching comics, reloads just the comig strip and not the entire webpage
+- when switching comics, reloads just the comic strip and not the entire webpage
 - minimizes visual clutter
 
 keyboard shortcuts:
